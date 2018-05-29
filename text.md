@@ -1,3 +1,5 @@
+start
+
 # 用于测试
 
 Learning Pixi
