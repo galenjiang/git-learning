@@ -60,8 +60,9 @@ git checkout <commit> <file>
 # force overwrite the history on the server
 git push --force
 
-# revert, m 1 is the first parent node
+# revert, m 1 is the first parent node, difference below two
 git revert -m 1 HEAD
+git revert <commit>
 
 ```
 
