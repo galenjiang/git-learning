@@ -216,7 +216,7 @@ something like this will be displayed in your web browser's JavaScript console b
 ```
       PixiJS 4.4.5 - * canvas * http://www.pixijs.com/  ♥♥♥ 
 ```
-
+app
 
 <a id='application'></a>
 Creating the Pixi Application and `stage`
