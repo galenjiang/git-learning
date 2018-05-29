@@ -186,6 +186,8 @@ running. Your `<script>` tag might look something like this:
 Here's a basic HTML page that you could use to link Pixi and test that
 it's working. (This assumes that the `pixi.min.js` is in a subfolder called `pixi`):
 
+example
+
 ```html
 <!doctype html>
 <html>
