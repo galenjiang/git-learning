@@ -221,3 +221,5 @@ something like this will be displayed in your web browser's JavaScript console b
 <a id='application'></a>
 Creating the Pixi Application and `stage`
 -------------------------------
+
+end
